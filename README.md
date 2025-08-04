@@ -2,30 +2,27 @@
 
 ###
 
-<h3 align="left">Currently Learning</h3>
+<div align="center">
+  
+## 💻 Currently Learning ⚡
 
-###
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="JavaScript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="Go logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="Python Logo">
-  <img width="12" />
 </div>
+
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khorzyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khorzyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khorzyy&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khorzyy&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khorzyy&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
 ###
@@ -45,6 +42,6 @@
       alt="Snake"
       src="https://raw.githubusercontent.com/Khorzyy/Khorzyy/output/github-contribution-grid-snake.svg"
       />
-  </picture>>
+  </picture>
 
 ###
