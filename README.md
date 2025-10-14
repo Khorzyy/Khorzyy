@@ -1,6 +1,25 @@
 <h2 align="center">Hi 👋! My name is Rizky Pratama and I'm a Beginner Developer, from Indonesia ^^</h2>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/ananda-rizky-067930319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-Ananda%20Rizky-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+## 💡 About Me
+
+- 🏫 Student at Mahardhika Vocational School (Batujajar, Bandung, Indonesia)
+- 👦 17 years old, passionate about tech and problem-solving
+- 🚀 On a journey to become a **Back-End Developer** and explore **Artificial Intelligence**
+- 📚 I love learning, tackling challenges, and turning ideas into reality
+
+</div>
+
+---
 
 <div align="center">
   
@@ -20,8 +39,33 @@
 
 </div>
 
+---
 
-###
+<div align="center">
+
+## 🚀 Favorite Projects
+
+- **[OpenDataKBB](#)**
+  <br>Unlocking and analyzing open data for better insights.
+- **[HotelReservation](#)**
+  <br>A project focused on managing hotel bookings efficiently.
+
+<sub>*(Replace the # above with your actual project links!)*</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 Fun Facts
+
+🏃 I enjoy running to stay active and clear my mind  
+♟️ Sometimes, I play a little bit of chess
+
+</div>
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Khorzyy&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
@@ -29,7 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khorzyy&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
-###
+---
 
 <br clear="both">
 
@@ -48,4 +92,8 @@
       />
   </picture>
 
-###
+---
+
+<p align="center">
+  <b>“Stay curious, keep learning, and never stop building!” 🚀</b>
+</p>
