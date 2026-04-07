@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Rizky Pratama and I'm a Beginner Developer, from Indonesia ^^</h2>
+<h2 align="center">Hi 👋! My name is Rizky Pratama Putra and I'm a Beginner Developer, from Indonesia ^^</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ananda-rizky-067930319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
@@ -12,8 +12,7 @@
 
 ## 💡 About Me
 
-- 🏫 Student at Mahardhika Vocational School (Batujajar, Bandung, Indonesia)
-- 👦 17 years old, passionate about tech and problem-solving
+- 👦 18 years old, passionate about tech and problem-solving
 - 🚀 On a journey to become a **Back-End Developer** and explore **Artificial Intelligence**
 - 📚 I love learning, tackling challenges, and turning ideas into reality
 
