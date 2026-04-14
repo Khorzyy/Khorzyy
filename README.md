@@ -44,13 +44,14 @@
 
 ## 🚀 Favorite Projects
 
-- **[OpenDataKBB](#)**
+- **[OpenDataKBB](https://opendatakbb.vercel.app/)**
   <br>Unlocking and analyzing open data for better insights.
-- **[HotelReservation](#)**
+- **[HotelReservation](https://github.com/Khorzyy/HotelReservation)**
   <br>A project focused on managing hotel bookings efficiently.
-
-<sub>*(Replace the # above with your actual project links!)*</sub>
-
+- **[ParkiRent FrontEnd](https://github.com/Khorzyy/ParkirentFrontEnd)**
+  <br>A project focused on making ui for managing parking with iot(internet of things).
+  - **[ParkiRent BackEnd](https://github.com/Khorzyy/ParkirentBackEnd)**
+  <br>A project focused on making api and comunicate with hivemq.
 </div>
 
 ---
