@@ -26,15 +26,17 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%2320232a.svg?style=for-the-badge&logo=Express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SupaBase](https://img.shields.io/badge/SupaBase-4169E1.svg?style=for-the-badge&logo=SupaBase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![DOCKER](https://img.shields.io/badge/docker-181717.svg?style=for-the-badge&logo=docker&logoColor=blue)
+![KUBERNETES](https://img.shields.io/badge/kubernetes-181717.svg?style=for-the-badge&logo=kubernetes&logoColor=blue)
 
 </div>
 
@@ -48,10 +50,12 @@
   <br>Unlocking and analyzing open data for better insights.
 - **[HotelReservation](https://github.com/Khorzyy/HotelReservation)**
   <br>A project focused on managing hotel bookings efficiently.
-- **[ParkiRent FrontEnd](https://github.com/Khorzyy/ParkirentFrontEnd)**
-  <br>A project focused on making ui for managing parking with iot(internet of things).
+- **ParkiRent**
+  <br>A project focused of managing parking with IoT(Internet Of Things) with hivemq.
+  - **[ParkiRent FrontEnd](https://github.com/Khorzyy/ParkirentFrontEnd)**
+    <br>A project focused on making ui for managing parking.
   - **[ParkiRent BackEnd](https://github.com/Khorzyy/ParkirentBackEnd)**
-  <br>A project focused on making api and comunicate with hivemq.
+    <br>A project focused on making api and comunicate with hivemq.
 </div>
 
 ---
