@@ -10,11 +10,11 @@
 
 <div align="center">
 
-## 💡 About Me
+##  About Me
 
-- 👦 18 years old, passionate about tech and problem-solving
-- 🚀 On a journey to become a **Back-End Developer** and explore **Artificial Intelligence**
-- 📚 I love learning, tackling challenges, and turning ideas into reality
+-  18 years old, passionate about tech and problem-solving
+-  On a journey to become a **Back-End Developer** and ** AI Engineer** also explore **Artificial Intelligence**
+- I love learning, tackling challenges, and turning ideas into reality
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
   
-## 💻 Currently Learning ⚡
+##  Currently Learning 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -44,12 +44,10 @@
 
 <div align="center">
 
-## 🚀 Favorite Projects
+## Favorite Projects
 
 - **[OpenDataKBB](https://opendatakbb.vercel.app/)**
   <br>Unlocking and analyzing open data for better insights.
-- **[HotelReservation](https://github.com/Khorzyy/HotelReservation)**
-  <br>A project focused on managing hotel bookings efficiently.
 - **ParkiRent**
   <br>A project focused of managing parking with IoT(Internet Of Things) with hivemq.
   - **[ParkiRent FrontEnd](https://github.com/Khorzyy/ParkirentFrontEnd)**
@@ -62,7 +60,7 @@
 
 <div align="center">
 
-## 🌟 Fun Facts
+##  Fun Facts
 
 🏃 I enjoy running to stay active and clear my mind  
 ♟️ Sometimes, I play a little bit of chess
@@ -99,5 +97,5 @@
 ---
 
 <p align="center">
-  <b>“Stay curious, keep learning, and never stop building!” 🚀</b>
+  <b>“Stay curious, keep learning, and never stop building!” </b>
 </p>
