@@ -37,6 +37,8 @@
 ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/docker-181717.svg?style=for-the-badge&logo=docker&logoColor=blue)
 ![KUBERNETES](https://img.shields.io/badge/kubernetes-181717.svg?style=for-the-badge&logo=kubernetes&logoColor=blue)
+![REDIS](https://img.shields.io/badge/redis-181717.svg?style=for-the-badge&logo=redis&logoColor=red)
+![TURBOREPO](https://img.shields.io/badge/turborepo-181717.svg?style=for-the-badge&logo=turborepo&logoColor=white)
 
 </div>
 
@@ -70,9 +72,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khorzyy&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khorzyy&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khorzyy&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
 ---
