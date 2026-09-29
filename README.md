@@ -119,4 +119,19 @@
   <b>“Stay curious, keep learning, and never stop building!” </b>
 </p>
 
+### 🤝 Let's Build Something Together
+
+[![Gmail](https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandarizky52378@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khorzyy)
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&fontAlignY=75" />
+
+**⭐️ From [Khorzyy](https://github.com/Khorzyy) — Made with 💜 in Markdown**
+
+<img src="https://komarev.com/ghpvc/?username=Khorzyy&label=Profile%20Views&color=9333EA&style=flat-square" />
+
+</div>
+
 </div>
