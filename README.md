@@ -94,6 +94,38 @@
 ---
 </div>
 
+## 🗺️ 2026 Roadmap
+
+```mermaid
+graph TB
+    A[💻 Core Focus Areas] --> B[AI Engineering]
+    A --> C[Backend Development]
+
+    B --> B1[🤖 Agentic AI Runtimes]
+    B --> B2[🎙️ Audio & Speech ML]
+    B --> B3[📊 Data Analytics & Pipelines]
+    B --> B4[🥽 AI Image-to-3D / AR Pipelines]
+
+    C --> C1[🐍 Python Backend]
+    C --> C2[🟨 JavaScript / Node.js]
+    C --> C3[⚡ High-Performance APIs]
+    C --> C4[🔐 Applied Cryptography & Security]
+
+    C1 --> C1a[🚀 FastAPI / Flask]
+    C1 --> C1b[📦 PyTorch / LangChain Integration]
+    
+    C2 --> C2a[🟢 Express / NestJS]
+    C2 --> C2b[🧵 Asynchronous Runtimes]
+
+    style A fill:#9333EA,color:#fff
+    style B fill:#FF6B6B,color:#fff
+    style C fill:#1A1B27,color:#fff
+    style C1 fill:#3776AB,color:#fff
+    style C2 fill:#F7DF1E,color:#000
+
+
+```
+  
 ---
 
 <br clear="both">
@@ -115,10 +147,6 @@
 
 ---
 
-<p align="center">
-  <b>“Stay curious, keep learning, and never stop building!” </b>
-</p>
-
 ### 🤝 Let's Build Something Together
 
 [![Gmail](https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandarizky52378@gmail.com)
@@ -131,6 +159,10 @@
 **⭐️ From [Khorzyy](https://github.com/Khorzyy) — Made with 💜 in Markdown**
 
 <img src="https://komarev.com/ghpvc/?username=Khorzyy&label=Profile%20Views&color=9333EA&style=flat-square" />
+
+<p align="center">
+  <b>“Stay curious, keep learning, and never stop building!” </b>
+</p>
 
 </div>
 
