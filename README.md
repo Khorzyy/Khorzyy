@@ -1,3 +1,5 @@
+<div align="center">
+
 <h2 align="center">Hi 👋! My name is Rizky Pratama Putra and I'm a Beginner Developer, from Indonesia ^^</h2>
 
 <p align="center">
@@ -72,7 +74,24 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khorzyy&theme=aura&hide_border=true" width="50%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=GitHub%20Stats&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+  ## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=Khorzyy&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Khorzyy&theme=tokyonight&hide_border=true" width="48%" />
+
+<br>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Khorzyy&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<br>
+
+
+---
 </div>
 
 ---
@@ -99,3 +118,5 @@
 <p align="center">
   <b>“Stay curious, keep learning, and never stop building!” </b>
 </p>
+
+</div>
