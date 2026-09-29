@@ -94,7 +94,7 @@
 ---
 </div>
 
-## 🗺️ 2026 Roadmap
+## 🗺️ 2027 Roadmap
 
 ```mermaid
 graph TB
