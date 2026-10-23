@@ -102,9 +102,7 @@ graph TB
     A --> C[Backend Development]
 
     B --> B1[🤖 Agentic AI Runtimes]
-    B --> B2[🎙️ Audio & Speech ML]
-    B --> B3[📊 Data Analytics & Pipelines]
-    B --> B4[🥽 AI Image-to-3D / AR Pipelines]
+    B --> B2[🎙️ ML ]
 
     C --> C1[🐍 Python Backend]
     C --> C2[🟨 JavaScript / Node.js]
